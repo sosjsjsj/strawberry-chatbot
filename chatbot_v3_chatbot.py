@@ -10,7 +10,7 @@ from langchain.prompts import PromptTemplate
 import shutil
 
 # OpenAI API 키 설정
-openApiKey = ''
+openApiKey = 'your_api_key'
 
 # Streamlit 앱 설정
 st.set_page_config(page_title="Strawberry-Seolhyang QA", layout="centered")
